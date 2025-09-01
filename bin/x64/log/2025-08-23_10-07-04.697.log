@@ -1,0 +1,6 @@
+/home/ubuntu/projects/EPlayerServer/main.cpp(8):[INFO][2025-08-23_10-07-04.798]<763726-140170527299328>(LogTest) here is log 10 A 1.000000 2 hello lili!
+/home/ubuntu/projects/EPlayerServer/main.cpp(10):[ERROR][2025-08-23_10-07-04.798]<763726-140170527299328>(LogTest) 100 S0.122 1.34343hello lili!lili hello
+/home/ubuntu/projects/EPlayerServer/main.cpp(8):[INFO][2025-08-23_10-07-04.798]<763726-140170669909760>(LogTest) here is log 10 A 1.000000 2 hello lili!
+/home/ubuntu/projects/EPlayerServer/main.cpp(10):[ERROR][2025-08-23_10-07-04.798]<763726-140170669909760>(LogTest) 100 S0.122 1.34343hello lili!lili hello
+/home/ubuntu/projects/EPlayerServer/main.cpp(8):[INFO][2025-08-23_10-07-04.798]<763726-140170661517056>(LogTest) here is log 10 A 1.000000 2 hello lili!
+/home/ubuntu/projects/EPlayerServer/main.cpp(10):[ERROR][2025-08-23_10-07-04.799]<763726-140170661517056>(LogTest) 100 S0.122 1.34343hello lili!lili hello
